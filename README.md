@@ -2,8 +2,7 @@
 
 A powerful web-based tool built using *Streamlit* and *Python* for analyzing WhatsApp chat data. Upload your exported .txt chat file and get deep insights into message trends, user activity, word usage, emojis, and more.
 
-![Demo Screenshot](<img width="1755" height="958" alt="image" src="https://github.com/user-attachments/assets/522f8fbe-af7b-4d29-9f26-337f7d4acb5d" />
-)
+![Demo Screenshot](<img width="1755" height="958" alt="image" src="https://github.com/user-attachments/assets/522f8fbe-af7b-4d29-9f26-337f7d4acb5d" />)
 
 ---
 
