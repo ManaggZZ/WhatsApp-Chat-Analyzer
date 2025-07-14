@@ -172,11 +172,12 @@ def activity_heatmap(selected_user, df):
     
     df['period'] = df['Hour'].apply(get_period)
     period_order = [f"{i}-{(i+1)%24}" for i in range(24)]
+    day_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
     activity_table = df.pivot_table(
             index='Day_name',
             columns='period',
             values='message',
             aggfunc='count'
-        ).reindex(columns=period_order).fillna(0)
+        ).reindex(index=day_order, columns=period_order).fillna(0)
     
     return activity_table
