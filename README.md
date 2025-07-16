@@ -1,5 +1,5 @@
 # 📊 WhatsApp Chat Analyzer
-<https://whatsapp-chat-analyzer-website.streamlit.app>
+
 https://shorturl.at/kfeyE
 
 A powerful web-based tool built using *Streamlit* and *Python* for analyzing WhatsApp chat data. Upload your exported .txt chat file and get deep insights into message trends, user activity, word usage, emojis, and more.
