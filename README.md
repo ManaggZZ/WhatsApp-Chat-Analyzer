@@ -47,10 +47,6 @@ Demo Screenshot<img width="1755" height="958" alt="image" src="https://github.co
 
 ### Clone the repository
 
-bash
-git clone https://github.com/your-username/whatsapp_analyzer.git
-cd whatsapp_analyzer
-
 
 ### Install dependencies
 
