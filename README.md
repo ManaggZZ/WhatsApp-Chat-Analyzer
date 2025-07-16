@@ -2,7 +2,13 @@
 
 https://shorturl.at/kfeyE
 
-![Click Here](https://shorturl.at/kfeyE)
+## Live Demo
+
+<p align="center">
+  <a href="https://whatsapp-chat-analyzer-website.streamlit.app/" target="_blank" rel="noopener noreferrer">
+    👉 Launch the WhatsApp Chat Analyzer
+  </a>
+</p>
 
 A powerful web-based tool built using *Streamlit* and *Python* for analyzing WhatsApp chat data. Upload your exported .txt chat file and get deep insights into message trends, user activity, word usage, emojis, and more.
 
