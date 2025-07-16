@@ -3,7 +3,6 @@ import preprocessor
 import helper
 import matplotlib.pyplot as plt
 import seaborn as sns
-import pandas as pd
 
 
 # st.write("Hello, Streamlit!")
